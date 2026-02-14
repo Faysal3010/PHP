@@ -2,7 +2,7 @@
 
 I practiced PHP during my university time.
 
-What I practiced:
+## What I practiced:
 1. Intro & basic PHP syntax
 2. Echo statements & comments
 3. HTML + PHP integration
